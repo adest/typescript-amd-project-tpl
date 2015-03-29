@@ -22,50 +22,50 @@ run followings command:
         |--  run-karma.sh
         |--  run-protractor.sh
         |--  test
-        |-- |--  common.js
-        |-- |--  e2e-spec
-        |-- |-- |--  FooAppSpec.js
-        |-- |-- |--  FooAppSpec.js.map
-        |-- |-- |--  FooAppSpec.ts
-        |-- |--  require_init_karma.js
-        |-- |--  Shutdown-selenium.html.url
-        |-- |--  SpecRunner.html
-        |-- |--  unit-spec
+        |   |--  common.js
+        |   |--  e2e-spec
+        |   |   |--  FooAppSpec.js
+        |   |   |--  FooAppSpec.js.map
+        |   |   |--  FooAppSpec.ts
+        |   |--  require_init_karma.js
+        |   |--  Shutdown-selenium.html.url
+        |   |--  SpecRunner.html
+        |   |--  unit-spec
         |--     |--  FooSpec.js
         |--     |--  FooSpec.js.map
         |--     |--  FooSpec.ts
         |--  tools
-        |-- |--  build.js
-        |-- |--  r.js
+        |   |--  build.js
+        |   |--  r.js
         |--  tsd.json
         |--  typings
-        |-- |--  angular-protractor
-        |-- |-- |--  angular-protractor.d.ts
-        |-- |--  jasmine
-        |-- |-- |--  jasmine.d.ts
-        |-- |--  selenium-webdriver
-        |-- |-- |--  selenium-webdriver.d.ts
-        |-- |--  tsd.d.ts
+        |   |--  angular-protractor
+        |   |   |--  angular-protractor.d.ts
+        |   |--  jasmine
+        |   |   |--  jasmine.d.ts
+        |   |--  selenium-webdriver
+        |   |   |--  selenium-webdriver.d.ts
+        |   |--  tsd.d.ts
         |--  www
-        |-- |--  common.js
-        |-- |--  index.html
-        |-- |--  scripts
-        |-- |-- |--  App.js
-        |-- |-- |--  App.js.map
-        |-- |-- |--  App.ts
-        |-- |-- |--  foo
-        |-- |--     |--  Bar.js
-        |-- |--     |--  Bar.js.map
-        |-- |--     |--  Bar.ts
-        |-- |--     |--  Baz.js
-        |-- |--     |--  Baz.js.map
-        |-- |--     |--  Baz.ts
-        |-- |--     |--  Foo.js
-        |-- |--     |--  Foo.js.map
-        |-- |--     |--  Foo.ts
-        |-- |--  styles
-        |-- |-- |--  app.css
-        |-- |--  vendor
+        |   |--  common.js
+        |   |--  index.html
+        |   |--  scripts
+        |   |   |--  App.js
+        |   |   |--  App.js.map
+        |   |   |--  App.ts
+        |   |   |--  foo
+        |   |--     |--  Bar.js
+        |   |--     |--  Bar.js.map
+        |   |--     |--  Bar.ts
+        |   |--     |--  Baz.js
+        |   |--     |--  Baz.js.map
+        |   |--     |--  Baz.ts
+        |   |--     |--  Foo.js
+        |   |--     |--  Foo.js.map
+        |   |--     |--  Foo.ts
+        |   |--  styles
+        |   |   |--  app.css
+        |   |--  vendor
         |--     |--  foundation-5.5.0
         |--     |--  foundation-icons
         |--  www-built
