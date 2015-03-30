@@ -8,7 +8,7 @@ TypescriptAMDProjectTemplate
 
 run followings command:
 * npm install
-* build.js
+* build.sh
 
 ## File layout
 
